@@ -1,0 +1,25 @@
+{
+  "name": "scryptobunnies",
+  "version": "1.0.0",
+  "description": "Bunnies living on the Radix Engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LilianCodes/scrypto-bunnies.git"
+  },
+  "keywords": [
+    "scrypto",
+    "radix",
+    "nft",
+    "token"
+  ],
+  "author": "Lilian/Narisa",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/LilianCodes/scrypto-bunnies/issues"
+  },
+  "homepage": "https://github.com/LilianCodes/scrypto-bunnies#readme"
+}
